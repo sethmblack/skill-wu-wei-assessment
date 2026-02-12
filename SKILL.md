@@ -1,10 +1,9 @@
 ---
 name: wu-wei-assessment
-description: Analyze whether you are forcing or flowing in a situation, revealing
-  where effort creates resistance and where yielding would serve better.
+description: Analyze whether you are forcing or flowing in a situation, revealing where effort creates resistance and where yielding would serve better.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - escalation
