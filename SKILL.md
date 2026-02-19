@@ -3,8 +3,8 @@ name: wu-wei-assessment
 description: Analyze whether you are forcing or flowing in a situation, revealing where effort creates resistance and where yielding would serve better.
 license: MIT
 metadata:
+  version: 1.0.5341
   author: sethmblack
-  version: 1.0.5340
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
